@@ -1,6 +1,6 @@
 # Dual Display Toggle Widget
 
-A KDE Plasma 6 widget to toggle your secondary display (eDP-2) on and off with a single click.
+A KDE Plasma 6 widget for the **ASUS Zenbook Duo (2024)** to toggle the secondary ScreenPad display (eDP-2) on and off with a single click.
 
 ## Features
 
