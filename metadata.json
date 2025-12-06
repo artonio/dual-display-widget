@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Artonio",
+                "Email": "artonio@example.com"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Toggle secondary display (eDP-2) on/off with a single click",
+        "Icon": "video-display",
+        "Id": "org.kde.plasma.dualdisplay",
+        "Name": "Dual Display Toggle",
+        "Version": "1.0",
+        "License": "GPL"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
